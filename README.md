@@ -1,1 +1,3 @@
-# Lab-4-Interactive-Web-Mapping
+# Washington County COVID Deaths per 10k
+
+This web application visualizes COVID deaths per 10,000 people in Washington state by county. Utilizing Mapbox GL JS, the interactive map allows users to explore county-specific data by hovering over each area. The color-coded map and legend provide a clear representation of COVID death rates, offering insights into the impact of the pandemic across different regions.
